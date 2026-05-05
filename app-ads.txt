@@ -1,16 +1,16 @@
-(updated 05/09/2025)
+(updated 05/05/2026)
 
 #admob
 google.com, pub-1279916151276341, DIRECT, f08c47fec0942fa0
 
 #meta
+facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
 facebook.com, 1230333543749816, DIRECT, c3e20eee3f780d68
 facebook.com, 1230333543749816, RESELLER, c3e20eee3f780d68
 facebook.com, 949983869006301, RESELLER, c3e20eee3f780d68
 facebook.com, 500306394902498, RESELLER, c3e20eee3f780d68
 facebook.com, 362405729199378, RESELLER, c3e20eee3f780d68
 facebook.com, 376819131167328, RESELLER, c3e20eee3f780d68
-facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
 
 #applovin
 applovin.com, 6326bddd8f8863e830ea22b90047bbcb, DIRECT
